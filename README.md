@@ -26,9 +26,9 @@ Let's take this `if`/`else` statement pair and express it with a ternary operato
 age = 1
 
 if age < 2
-	"baby"
+   "baby"
 else
-	"not a baby"
+   "not a baby"
 end 
 ```
 
