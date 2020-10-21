@@ -94,7 +94,3 @@ puts "Hey, it's not 2015!" unless this_year == 2015
 
 * [Ruby Operators](http://www.techotopia.com/index.php/Ruby_Operators)
 * [Stack Overflow - Ternary Operators](http://stackoverflow.com/a/4252945)
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/operators' title='Operators'>Operators</a> on Learn.co and start learning to code for free.</p>
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/operators'>Ternary Operators and Statement Modifiers</a> on Learn.co and start learning to code for free.</p>
